@@ -32,25 +32,10 @@ I specialize in the **MERN stack** — **MongoDB, Express.js, React, and Node.js
 
 ---
 
-✨ *"Code is not just about solving problems, it’s about creating experiences."* ✨
-- ✔️ Turning ideas into real-world applications  
-- ✔️ Building **user-friendly** interfaces with React  
-- ✔️ Designing and managing **RESTful APIs**  
-- ✔️ Writing **clean, maintainable code**  
-- ✔️ Learning new technologies and improving every day  
-
----
 
 
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
