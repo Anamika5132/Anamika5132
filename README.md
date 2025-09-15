@@ -1,9 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Anamika Yadav
 
 <!--
 **Anamika5132/Anamika5132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align = "center"<i>Tech Stack</i></h2>
+<p align = "center">
+<a >
+<img src = "https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,express,redis,mongodb," />
+</a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
