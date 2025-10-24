@@ -9,8 +9,8 @@
 </div>
 
 🎓 B.Tech Computer Science student<br> 
-💻 Passionate Full-Stack Developer | DSA Enthusiast  
-💻 Exploring the world of Full-Stack Web Development with a focus on the MERN stack (MongoDB, Express.js, React, Node.js), building dynamic, responsive, and scalable web applications.
+💻 Passionate Full-Stack Developer and DSA Enthusiast  
+💻 Exploring the world of Full-Stack Web Development with a focus on the MERN stack (MongoDB, Express.js, React, Node.js), building dynamic, responsive, and scalable web applications.<br>
 🚀 Participated in GirlScript Summer of Code (GSSoC), contributing to open-source projects and gaining hands-on experience in collaborative development and real-world coding practices.
 
 <h2 align="center"><i>Tech Stack</i></h2>
